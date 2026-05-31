@@ -1,4 +1,4 @@
-# AURA — The Ambient Focus OS1
+# AURA — The Ambient Focus OS2
 
 A premium, ultra-modern, and fully responsive landing page for **AURA**, a futuristic productivity software designed to induce deep cognitive flow by orchestrating personalized spatial acoustics and circadian workspace light sync.
 
